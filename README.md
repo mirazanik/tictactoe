@@ -1,2 +1,3 @@
 # tictactoe
-Tic Tac Toe Game In C++
+
+This is a simple fun game using C++. So please learn and share your feedback.
